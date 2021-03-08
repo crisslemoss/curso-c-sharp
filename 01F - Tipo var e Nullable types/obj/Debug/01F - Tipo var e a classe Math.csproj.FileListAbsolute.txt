@@ -1,0 +1,6 @@
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\bin\Debug\01F - Tipo var e a classe Math.exe.config
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\bin\Debug\01F - Tipo var e a classe Math.exe
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\bin\Debug\01F - Tipo var e a classe Math.pdb
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\obj\Debug\01F - Tipo var e a classe Math.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\obj\Debug\01F - Tipo var e a classe Math.exe
+E:\Curso CSharp Completo\Aula 01\01F - Tipo var e a classe Math\obj\Debug\01F - Tipo var e a classe Math.pdb

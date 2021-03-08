@@ -1,0 +1,7 @@
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\bin\Debug\01K - Estruturas de decisão e repetição.exe.config
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\bin\Debug\01K - Estruturas de decisão e repetição.exe
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\bin\Debug\01K - Estruturas de decisão e repetição.pdb
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\obj\Debug\01K - Estruturas de decisão e repetição.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\obj\Debug\01K - Estruturas de decisão e repetição.exe
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\obj\Debug\01K - Estruturas de decisão e repetição.pdb
+E:\Curso CSharp Completo\Aula 01\01K - Estruturas de decisão e repetição\obj\Debug\01K - Estruturas de decisão e repetição.csprojAssemblyReference.cache

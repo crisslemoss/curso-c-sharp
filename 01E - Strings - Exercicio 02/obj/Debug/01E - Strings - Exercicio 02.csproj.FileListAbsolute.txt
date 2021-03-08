@@ -1,0 +1,6 @@
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\bin\Debug\01E - Strings - Exercicio 02.exe.config
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\bin\Debug\01E - Strings - Exercicio 02.exe
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\bin\Debug\01E - Strings - Exercicio 02.pdb
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\obj\Debug\01E - Strings - Exercicio 02.csproj.CoreCompileInputs.cache
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\obj\Debug\01E - Strings - Exercicio 02.exe
+D:\02_SOITIC\CSharp_Elfutec\CSharp\CSharp\01E - Strings - Exercicio 02\obj\Debug\01E - Strings - Exercicio 02.pdb

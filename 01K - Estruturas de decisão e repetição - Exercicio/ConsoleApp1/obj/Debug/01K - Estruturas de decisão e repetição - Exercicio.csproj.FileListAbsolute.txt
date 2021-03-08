@@ -1,0 +1,7 @@
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\obj\Debug\01K - Estruturas de decisão e repetição - Exercicio.csprojAssemblyReference.cache
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\obj\Debug\01K - Estruturas de decisão e repetição - Exercicio.csproj.CoreCompileInputs.cache
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\01_Projetos\CSharp_Elfutec\01K - Estruturas de decisão e repetição - Exercicio\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\bin\Debug\01I - Struct, Enum e Arrays.exe.config
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\bin\Debug\01I - Struct, Enum e Arrays.exe
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\bin\Debug\01I - Struct, Enum e Arrays.pdb
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\obj\Debug\01I - Struct, Enum e Arrays.csprojAssemblyReference.cache
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\obj\Debug\01I - Struct, Enum e Arrays.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\obj\Debug\01I - Struct, Enum e Arrays.exe
+E:\Curso CSharp Completo\Aula 01\01I - Struct, Enum e Arrays\obj\Debug\01I - Struct, Enum e Arrays.pdb

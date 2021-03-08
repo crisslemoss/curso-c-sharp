@@ -1,0 +1,7 @@
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\bin\Debug\Dynamic, DateTime e Math.exe.config
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\bin\Debug\Dynamic, DateTime e Math.exe
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\bin\Debug\Dynamic, DateTime e Math.pdb
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\obj\Debug\01G - Dynamic, DateTime e Math.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\obj\Debug\Dynamic, DateTime e Math.exe
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\obj\Debug\Dynamic, DateTime e Math.pdb
+E:\Curso CSharp Completo\Aula 01\01G - Dynamic, DateTime e Math\obj\Debug\01G - Dynamic, DateTime e Math.csprojAssemblyReference.cache

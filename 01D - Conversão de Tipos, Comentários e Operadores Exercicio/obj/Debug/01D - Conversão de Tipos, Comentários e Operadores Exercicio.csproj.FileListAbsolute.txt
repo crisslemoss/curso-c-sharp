@@ -1,0 +1,9 @@
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.csprojAssemblyReference.cache
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\_01D___Conversão_de_Tipos__Comentários_e_Operadores_Exercicio.Properties.Resources.resources
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.csproj.GenerateResource.cache
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.csproj.CoreCompileInputs.cache
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\bin\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.exe.config
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\bin\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.exe
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\bin\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.pdb
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.exe
+D:\02_SOITIC\CSharp_Elfutec\CSharp\01D - Conversão de Tipos, Comentários e Operadores Exercicio\obj\Debug\01D - Conversão de Tipos, Comentários e Operadores Exercicio.pdb

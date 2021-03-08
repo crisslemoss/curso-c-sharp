@@ -1,0 +1,14 @@
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe.config
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.pdb
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.pdb
+E:\Curso CSharp Completo\Aula 01\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.csprojAssemblyReference.cache
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe.config
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\bin\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.pdb
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.csprojAssemblyReference.cache
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.csproj.CoreCompileInputs.cache
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.exe
+D:\01_Projetos\CSharp_Elfutec\CSharp\01H - Tipo Valor, Tipo Referência e Tipos Anônimos\obj\Debug\01H - Tipo Valor, Tipo Referência e Tipos Anônimos.pdb

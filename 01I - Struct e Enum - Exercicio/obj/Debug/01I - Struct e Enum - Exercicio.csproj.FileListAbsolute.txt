@@ -1,0 +1,6 @@
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\bin\Debug\01I - Struct e Enum - Exercicio.exe.config
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\bin\Debug\01I - Struct e Enum - Exercicio.exe
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\bin\Debug\01I - Struct e Enum - Exercicio.pdb
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\obj\Debug\01I - Struct e Enum - Exercicio.csproj.CoreCompileInputs.cache
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\obj\Debug\01I - Struct e Enum - Exercicio.exe
+D:\01_Projetos\CSharp_Elfutec\CSharp\CSharp\01I - Struct e Enum - Exercicio\obj\Debug\01I - Struct e Enum - Exercicio.pdb

@@ -1,0 +1,7 @@
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\obj\Debug\01D - Comentários e Conversão de Tipos.csprojAssemblyReference.cache
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\obj\Debug\01D - Comentários e Conversão de Tipos.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\bin\Debug\01D - Comentários e Conversão de Tipos.exe.config
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\bin\Debug\01D - Comentários e Conversão de Tipos.exe
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\bin\Debug\01D - Comentários e Conversão de Tipos.pdb
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\obj\Debug\01D - Comentários e Conversão de Tipos.exe
+E:\Curso CSharp Completo\Aula 01\01D - Comentários e Conversão de Tipos\obj\Debug\01D - Comentários e Conversão de Tipos.pdb

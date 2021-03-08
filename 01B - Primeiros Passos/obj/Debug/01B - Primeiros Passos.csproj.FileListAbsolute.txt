@@ -1,0 +1,14 @@
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.exe.config
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.exe
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.pdb
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\obj\Debug\01B - Primeiros Passos.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\obj\Debug\_01B___Conceitos_Iniciais.exe
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\obj\Debug\_01B___Conceitos_Iniciais.pdb
+E:\Curso CSharp Completo\Aula 01\01B - Primeiros Passos\obj\Debug\01B - Primeiros Passos.csprojAssemblyReference.cache
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.exe.config
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.exe
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\bin\Debug\_01B___Conceitos_Iniciais.pdb
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\obj\Debug\01B - Primeiros Passos.csprojAssemblyReference.cache
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\obj\Debug\01B - Primeiros Passos.csproj.CoreCompileInputs.cache
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\obj\Debug\_01B___Conceitos_Iniciais.exe
+D:\CSharp_Elfutec\CSharp\01B - Primeiros Passos\obj\Debug\_01B___Conceitos_Iniciais.pdb

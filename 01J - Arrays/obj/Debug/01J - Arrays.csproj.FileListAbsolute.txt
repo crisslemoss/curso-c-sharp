@@ -1,0 +1,7 @@
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\bin\Debug\01J - Arrays.exe.config
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\bin\Debug\01J - Arrays.exe
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\bin\Debug\01J - Arrays.pdb
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\obj\Debug\01J - Arrays.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\obj\Debug\01J - Arrays.exe
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\obj\Debug\01J - Arrays.pdb
+E:\Curso CSharp Completo\Aula 01\01J - Arrays\obj\Debug\01J - Arrays.csprojAssemblyReference.cache

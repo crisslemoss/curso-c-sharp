@@ -1,0 +1,6 @@
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\bin\Debug\_01B___Conceitos_Iniciais.exe.config
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\bin\Debug\_01B___Conceitos_Iniciais.exe
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\bin\Debug\_01B___Conceitos_Iniciais.pdb
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\obj\Debug\01B - Conceitos Iniciais.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\obj\Debug\_01B___Conceitos_Iniciais.exe
+E:\Curso CSharp Completo\Aula 01\01B - Conceitos Iniciais\obj\Debug\_01B___Conceitos_Iniciais.pdb

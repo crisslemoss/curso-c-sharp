@@ -1,0 +1,14 @@
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\bin\Debug\01C - Variáveis e operadores básicos.exe.config
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\bin\Debug\01C - Variáveis e operadores básicos.exe
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\bin\Debug\01C - Variáveis e operadores básicos.pdb
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\obj\Debug\01C - Variáveis, constantes e concatenação.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\obj\Debug\01C - Variáveis e operadores básicos.exe
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\obj\Debug\01C - Variáveis e operadores básicos.pdb
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis e operadores básicos\obj\Debug\01C - Variáveis, constantes e concatenação.csprojAssemblyReference.cache
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\bin\Debug\01C - Variáveis e operadores básicos.exe.config
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\bin\Debug\01C - Variáveis e operadores básicos.exe
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\bin\Debug\01C - Variáveis e operadores básicos.pdb
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\obj\Debug\01C - Variáveis, constantes e concatenação.csprojAssemblyReference.cache
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\obj\Debug\01C - Variáveis, constantes e concatenação.csproj.CoreCompileInputs.cache
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\obj\Debug\01C - Variáveis e operadores básicos.exe
+E:\Curso CSharp Completo\Aula 01\01C - Variáveis, constantes e concatenação\obj\Debug\01C - Variáveis e operadores básicos.pdb
